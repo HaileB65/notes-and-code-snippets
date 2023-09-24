@@ -23,5 +23,3 @@ function validateName(e) {
         e.target.style.backgroundColor = "";
     }
 }
-
-form.addEventListener(`change`, validateName);
